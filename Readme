@@ -1,0 +1,6 @@
+Description: 
+                     Using the Asset inventory API, try to build a data studio dashboard for inventory management. 
+
+Asset Inventory:
+                   Cloud asset inventory is fully managed metadata service that allows you to view, monitor, analyze and getting insights of your entire GCP and ANTHOS footprint including change history. It can be resource, policy (IAM policy or organization policy) and also runtime information like system updates
+Metadata is configuration of assets not the content like name, type and creating time of disk but not the files in disk. It works at the organization, folder and project levels with fine-grained IAM controls. Up to 35 days history
